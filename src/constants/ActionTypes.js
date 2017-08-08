@@ -1,0 +1,17 @@
+export const LOAD_TODOS = 'LOAD_TODOS';
+export const LOAD_TODOS_SUCCESS = 'LOAD_TODOS_SUCCESS';
+export const LOAD_TODOS_ERROR = 'LOAD_TODOS_ERROR';
+
+export const ADD_TODO = 'ADD_TODO';
+export const ADD_TODO_ERROR = 'ADD_TODO_ERROR';
+
+export const DELETE_TODO = 'REMOVE_TODO';
+export const DELETE_TODO_ERROR = 'DELETE_TODO_ERROR';
+
+export const EDIT_TODO = 'EDIT_TODO';
+export const EDIT_TODO_ERROR = 'EDIT_TODO_ERROR';
+
+export const COMPLETE_TODO = 'COMPLETE_TODO';
+export const COMPLETE_TODO_ERROR = 'COMPLETE_TODO_ERROR';
+
+export const CLEAR_COMPLETED = 'CLEAR_COMPLETED';
